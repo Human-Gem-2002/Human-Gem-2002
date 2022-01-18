@@ -1,7 +1,7 @@
 ### Hi, I'm Toonies <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-- 🔭 I'm passionate about Robotics + AI
+- 🔭 I'm passionate about Robotics + AI 🤖
 - 🥅 Goals: Protecting everyone
 
 ### :zap: GitHub Stats
