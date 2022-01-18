@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 <tr>
   <td width="50%">
     <img src="https://github-readme-stats.vercel.app/api?username=Human-Gem&show_icons=true&hide=contribs,issues&hide_border=true" />
-    <img src="https://github.com/Human-Gem/Human-Gem/blob/main/All%20png/abc.pyw" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Human-Gem&layout=compact&show_icons=true&hide_border=true" />
   </td>
-  <td width="50%"><img alt="gif" align="right" src=".github/assets/coding.gif"/></td>
+  <td width="50%"><img alt="gif" align="right" src="https://github.com/Human-Gem/Human-Gem/blob/main/All%20png/py.png"/></td>
 </tr>
 <table>
