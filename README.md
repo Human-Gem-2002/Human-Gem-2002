@@ -11,7 +11,7 @@
   <td width="60%">
     <img src="https://github-readme-stats.vercel.app/api?username=Human-Gem&show_icons=true&hide=contribs,issues&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Human-Gem&layout=compact&show_icons=true&hide_border=true" />
-    
+    <br />
     <img src="https://komarev.com/ghpvc/?username=Human-Gem&color=green" />
 
   </td>
