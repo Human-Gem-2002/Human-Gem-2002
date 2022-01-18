@@ -15,7 +15,18 @@
   <td width="50%"><img alt="gif" align="right" src="https://github.com/Human-Gem/Human-Gem/blob/main/All%20png/robot2.gif"/></td>
 </tr>
 <table>
+
+<br />
+<br />
+
+---
+
+### 📺 My channels
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCK4a4PF19pPu7Gk0YXGew9Q)
+
+
   
+---  
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
