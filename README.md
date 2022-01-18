@@ -11,6 +11,7 @@
   <td width="60%">
     <img src="https://github-readme-stats.vercel.app/api?username=Human-Gem&show_icons=true&hide=contribs,issues&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Human-Gem&layout=compact&show_icons=true&hide_border=true" />
+    ![](https://komarev.com/ghpvc/?username=Human-Gem&color=green)
   </td>
   <td width="40%"><img alt="gif" align="right" src="https://github.com/Human-Gem/Human-Gem/blob/main/All%20png/spiderman.gif"/></td>
   
@@ -54,7 +55,6 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCK4a4PF19pPu7Gk0YXGew9Q)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199169701918/)
   
-<br />
-<br />
+
   
-![](https://komarev.com/ghpvc/?username=Human-Gem&color=green)
+
