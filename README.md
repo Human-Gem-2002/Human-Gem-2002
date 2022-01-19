@@ -1,9 +1,6 @@
 ### <img src="https://github.com/toonies-Nguyen/toonies-Nguyen/blob/main/All%20png/gg.gif" width="80px" height="80px"> </br> <p> Hi, I'm Toonies <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </p>
-<h3> 💌 How to reach me
-    <a href="https://camo.githubusercontent.com/15b5d278889bde4d52d72dd94f85b065ca7139a0b207b8e6911d69484d022c4c/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d616572697374687926726f773d34267468656d653d6f6e656461726b266e6f2d6672616d653d74727565" target="_blank">
-    <img src="https://img.shields.io/badge/Gurjeet%20Singh%20Virdee-1976D2?style=for-the-badge&logo=linkedin&logoColor=white" width="150" height="22">
-    <a href = "mailto: gurjeetsinghvirdee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Hey, gurjeet-fff?style=for-the-badge&logo=gmail&logoColor=D74E43" width="110" height="22"></a>
-
+<details><summary>🏆 Github Trophies </summary>
+  <img src="https://github-profile-trophy.vercel.app/?username=Human-Gem-2002&theme=onedark" alt="trophies">  
 - 🔭 I'm passionate about Robotics + AI 🤖
 - 🥅 Goals: Protect the earth 
 
