@@ -20,9 +20,12 @@
 </tr>
 <table>
 
-<br />
-<br />
+<hr>   
 
+<p align="left">
+  <img width="90%" 
+   src="https://activity-graph.herokuapp.com/graph?username=Human-Gem&theme=synthwave-84" />
+</p> 
 
 
 
