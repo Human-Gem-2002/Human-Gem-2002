@@ -1,10 +1,11 @@
 ### <img src="https://github.com/toonies-Nguyen/toonies-Nguyen/blob/main/All%20png/gg.gif" width="80px" height="80px"> </br> <p> Hi, I'm Toonies <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </p>
-<details><summary>🏆 Github Trophies </summary>
-  <img src="https://github-profile-trophy.vercel.app/?username=Human-Gem-2002&theme=onedark" alt="trophies">  
- </details> 
+
 - 🔭 I'm passionate about Robotics + AI 🤖
 - 🥅 Goals: Protect the earth 
 
+<details><summary>🏆 Github Trophies </summary>
+  <img src="https://github-profile-trophy.vercel.app/?username=Human-Gem-2002&theme=onedark" alt="trophies">  
+ </details> 
 
 ### :zap: GitHub Stats
 
