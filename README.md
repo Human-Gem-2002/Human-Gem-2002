@@ -17,7 +17,7 @@
 
   </td>
   <td width="40%"><img alt="gif" align="right" src="https://github.com/Human-Gem/Human-Gem/blob/main/All%20png/spiderman.gif"/></td>
-  
+  <td width="40%"><img alt="gif" align="right" src="https://github.com/toonies-Nguyen/toonies-Nguyen/blob/main/All%20png/r.png"/></td>
 </tr>
 <table>
 
