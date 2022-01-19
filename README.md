@@ -10,8 +10,8 @@
 <table>
 <tr>
   <td width="60%">
-    <img src="https://github-readme-stats.vercel.app/api?username=toonies-Nguyen&show_icons=true&hide=contribs,issues&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toonies-Nguyen&layout=compact&show_icons=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Human-Gem-2002&show_icons=true&hide=contribs,issues&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Human-Gem-2002&layout=compact&show_icons=true&hide_border=true" />
     </td>
     <img src="https://komarev.com/ghpvc/?username=Human-Gem&color=green&style=plastic" />
 
