@@ -2,7 +2,7 @@
 <img width="40%"  src="https://github.com/toonies-Nguyen/toonies-Nguyen/blob/main/All%20png/onepiece.gif" />
 
 - 🔭 I'm passionate about Robotics + AI 🤖
-- 🥅 Goals: Protecting everyone
+- 🥅 Goals: Protect the earth 
 
 
 ### :zap: GitHub Stats
