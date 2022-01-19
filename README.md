@@ -10,10 +10,10 @@
 <table>
 <tr>
   <td width="60%">
-    <img src="https://github-readme-stats.vercel.app/api?username=Human-Gem&show_icons=true&hide=contribs,issues&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Human-Gem&layout=compact&show_icons=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=toonies-Nguyen&show_icons=true&hide=contribs,issues&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toonies-Nguyen&layout=compact&show_icons=true&hide_border=true" />
     </td>
-    <img src="https://komarev.com/ghpvc/?username=Human-Gem&color=green&style=plastic" />
+    <img src="https://komarev.com/ghpvc/?username=toonies-Nguyen&color=green&style=plastic" />
 
   </td>
   <td width="40%"><img alt="gif" align="right" src="https://github.com/Human-Gem/Human-Gem/blob/main/All%20png/spiderman.gif"/></td>
@@ -25,7 +25,7 @@
 
 <p align="left">
   <img width="100%" 
-   src="https://activity-graph.herokuapp.com/graph?username=Human-Gem&theme=synthwave-84" />
+   src="https://activity-graph.herokuapp.com/graph?username=toonies-Nguyen&theme=synthwave-84" />
 </p> 
 
 
