@@ -16,7 +16,7 @@
     <img src="https://komarev.com/ghpvc/?username=Human-Gem&color=green" />
 
   </td>
-  <td width="40%"><img alt="gif" align="right" src="https://github.com/Human-Gem/Human-Gem/blob/main/All%20png/spiderman.gif"/></td>
+  <td width="40%"><img alt="gif" align="right" src="http://www.funnyism.com/i/funnypics/hes-wanted-in-civil-war-1"/></td>
   
 </tr>
 <table>
