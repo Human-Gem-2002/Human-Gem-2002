@@ -16,7 +16,7 @@
     <img src="https://komarev.com/ghpvc/?username=Human-Gem&color=green&style=plastic" />
 
   </td>
-  <td width="40%"><img alt="gif" align="right" src="https://github.com/Human-Gem/Human-Gem/blob/main/All%20png/Hashirama.png"/></td>
+  <td width="40%"><img alt="gif" align="right" src="https://github.com/Human-Gem/Human-Gem/blob/main/All%20png/spiderman.gif"/></td>
 
 </tr>
 <table>
