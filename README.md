@@ -23,7 +23,7 @@
 <hr>   
 
 <p align="left">
-  <img width="90%" 
+  <img width="100%" 
    src="https://activity-graph.herokuapp.com/graph?username=Human-Gem&theme=synthwave-84" />
 </p> 
 
