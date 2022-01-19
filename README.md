@@ -1,4 +1,4 @@
-### Hi, I'm Toonies <img src="https://github.com/toonies-Nguyen/toonies-Nguyen/blob/main/All%20png/gg.gif" width="25px">
+### Hi, I'm Toonies <img src="https://github.com/toonies-Nguyen/toonies-Nguyen/blob/main/All%20png/gg.gif" width="50px">
 
 
 - 🔭 I'm passionate about Robotics + AI 🤖
