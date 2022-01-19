@@ -1,4 +1,4 @@
-### <img src="https://github.com/toonies-Nguyen/toonies-Nguyen/blob/main/All%20png/gg.gif" width="80px" height="80px"> <p> Hi, I'm Toonies <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </p>
+### <img src="https://github.com/toonies-Nguyen/toonies-Nguyen/blob/main/All%20png/gg.gif" width="80px" height="80px"> </br> <p> Hi, I'm Toonies <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </p>
 <img width="40%"  src="https://github.com/toonies-Nguyen/toonies-Nguyen/blob/main/All%20png/onepiece.gif" />
 
 - 🔭 I'm passionate about Robotics + AI 🤖
