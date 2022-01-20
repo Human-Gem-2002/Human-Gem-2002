@@ -4,7 +4,7 @@
 - 🥅 Goals: I will be one of them, one of the best of the best.
 
 <details><summary>🏆 Github Trophies </summary>
-  <img src="https://github-profile-trophy.vercel.app/?username=Human-Gem-2002&theme=juicyfresh&rank= SSS,SS,S,AAA,AA,A" alt="trophies">  
+  <img src="https://github-profile-trophy.vercel.app/?username=toonies2002&theme=juicyfresh&rank= SSS,SS,S,AAA,AA,A" alt="trophies">  
  </details> 
 
 ### :zap: GitHub Stats
@@ -12,8 +12,8 @@
 <table>
 <tr>
   <td width="60%">
-    <img src="https://github-readme-stats.vercel.app/api?username=Human-Gem-2002&show_icons=true&hide=contribs,issues&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Human-Gem-2002&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api?username=toonies2002&show_icons=true&hide=contribs,issues&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toonies2002&layout=compact" />
     </td>
     <img src="https://komarev.com/ghpvc/?username=Human-Gem&color=green&style=plastic" />
 
