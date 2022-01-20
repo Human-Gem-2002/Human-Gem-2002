@@ -12,8 +12,8 @@
 <table>
 <tr>
   <td width="60%">
-    <img src="https://github-readme-stats.vercel.app/api?username=Toonies-Nguyen&show_icons=true&hide=contribs,issues&hide_border=true&theme=onedark" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toonies-Nguyen&layout=compact&theme=onedark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Toonies-Nguyen&show_icons=true&hide=contribs,issues&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toonies-Nguyen&layout=compact" />
     </td>
     <img src="https://komarev.com/ghpvc/?username=Human-Gem&color=green&style=plastic" />
 
