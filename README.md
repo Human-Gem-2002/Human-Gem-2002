@@ -3,9 +3,6 @@
 - 🔭 I'm passionate about Robotics and Artificial Intelligence 🤖
 - 🥅 Goals: I will be one of them, one of the best of the best.
 
-<details><summary>🎫 Github Trophies</summary>
-  <img src="https://github-profile-trophy.vercel.app/?username=Toonies-Nguyen&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1" alt="trophies">  
- </details> 
 
 <details><summary>🏆 Github Trophies</summary>
   <img src="https://github-profile-trophy.vercel.app/?username=Toonies-Nguyen&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1" alt="trophies">  
