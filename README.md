@@ -1,7 +1,7 @@
 ### <img src="https://github.com/toonies-Nguyen/toonies-Nguyen/blob/main/All%20png/gg.gif" width="80px" height="80px"> </br> <p> Hi, I'm Toonies <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </p>
 
 - 🔭 I'm passionate about Robotics + AI 🤖
-- 🥅 Goals: Protect the earth 
+- 🥅 Goals: I will be one of them, one of the best of the best.
 
 <details><summary>🏆 Github Trophies </summary>
   <img src="https://github-profile-trophy.vercel.app/?username=Human-Gem-2002&theme=juicyfresh&rank= SSS,SS,S,AAA,AA,A" alt="trophies">  
