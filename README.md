@@ -13,7 +13,7 @@
 <table>
 <tr>
   <td width="60%">
-    <img src="https://github-readme-stats.vercel.app/api?username=Toonies-Nguyen&show_icons=true&hide=contribs,issues&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=Toonies-Nguyen&custom_title=GitHub+Stats&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toonies-Nguyen&layout=compact" />
     </td>
     <img src="https://komarev.com/ghpvc/?username=Human-Gem&color=green&style=plastic" />
