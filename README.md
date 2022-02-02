@@ -26,7 +26,7 @@
 ---
 <p align="left">
   <img width="100%" 
-   src="https://activity-graph.herokuapp.com/graph?username=Human-Gem&theme=synthwave-84" />
+   src="https://activity-graph.herokuapp.com/graph?username=Toonies18082002&theme=synthwave-84" />
 </p> 
 
 
