@@ -4,7 +4,7 @@
 
 
 <details><summary>🏆 Github Trophies</summary>
-  <img src="https://github-profile-trophy.vercel.app/?username=Toonies18082002&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1" alt="trophies">  
+  <img src="https://github-profile-trophy.vercel.app/?username=Human-Nhan&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1" alt="trophies">  
  </details> 
 
 ### :zap: GitHub Stats
@@ -12,8 +12,8 @@
 <table>
 <tr>
   <td width="58%">
-    <img src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=Toonies18082002&custom_title=GitHub+Stats&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toonies18082002&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=Human-Nhan&custom_title=GitHub+Stats&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Human-Nhan&layout=compact" />
     </td>
     <img src="https://komarev.com/ghpvc/?username=Human-Gem&color=green&style=plastic" />
 
@@ -26,7 +26,7 @@
 ---
 <p align="left">
   <img width="100%" 
-   src="https://activity-graph.herokuapp.com/graph?username=Toonies18082002&theme=synthwave-84" />
+   src="https://activity-graph.herokuapp.com/graph?username=Human-Nhan&theme=synthwave-84" />
 </p> 
 
 
