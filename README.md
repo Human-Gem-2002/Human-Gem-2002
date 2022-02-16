@@ -12,8 +12,8 @@
 <table>
 <tr>
   <td width="58%">
-    <img src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=Human-Nhan&custom_title=GitHub+Stats&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Human-Nhan&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=Human-Toonies&custom_title=GitHub+Stats&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?usernameHuman-Toonies&layout=compact" />
     </td>
     <img src="https://komarev.com/ghpvc/?username=Human-Gem&color=green&style=plastic" />
 
@@ -26,7 +26,7 @@
 ---
 <p align="left">
   <img width="100%" 
-   src="https://activity-graph.herokuapp.com/graph?username=Human-Nhan&theme=synthwave-84" />
+   src="https://activity-graph.herokuapp.com/graph?username=Human-Toonies&theme=synthwave-84" />
 </p> 
 
 
