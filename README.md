@@ -5,6 +5,9 @@
 
 <details><summary>🏆 Github Trophies</summary>
   <img src="https://github-profile-trophy.vercel.app/?username=Human-Toonies&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1" alt="trophies">  
+  <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Human-Toonies&theme=dracula&hide_border=true" />
+</p>
  </details> 
 
 ### :zap: GitHub Stats
@@ -28,9 +31,7 @@
   <img width="100%" 
    src="https://activity-graph.herokuapp.com/graph?username=Human-Toonies&theme=synthwave-84" />
 </p> 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Human-Toonies&theme=dracula&hide_border=true" />
-</p>
+
 
 
 
