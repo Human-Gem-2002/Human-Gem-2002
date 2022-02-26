@@ -22,7 +22,9 @@
 
 </tr>
 <table>
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Human-Toonies&theme=dracula&hide_border=true
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Human-Toonies&theme=dracula&hide_border=true" />
+</p>
 ---
 <p align="left">
   <img width="100%" 
