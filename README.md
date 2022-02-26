@@ -8,7 +8,7 @@
 
 
  </details> 
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Human-Toonies&theme=vue&hide_border=true" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Human-Toonies&theme=dracula&hide_border=true" />
 
 
 ### :zap: GitHub Stats
