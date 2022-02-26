@@ -22,14 +22,15 @@
 
 </tr>
 <table>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Human-Toonies&theme=dracula&hide_border=true" />
-</p>
+
 ---
 <p align="left">
   <img width="100%" 
    src="https://activity-graph.herokuapp.com/graph?username=Human-Toonies&theme=synthwave-84" />
 </p> 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Human-Toonies&theme=dracula&hide_border=true" />
+</p>
 
 
 
