@@ -54,25 +54,7 @@
 [![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)](https://opencv.org/)
   
   
-.horizontal-dots {
-    cursor: pointer;
-    width: 19px;
-    height: 14px;
-    background-image: radial-gradient(circle, black 1.5px, transparent 2.0px);
-    background-size: 6px 16px;
-    background-color: #EEEEEE;
-    border-top: 1px solid #CCCCCC;
-    border-right: 1px solid #CCCCCC;
-    border-bottom: 1px solid #CCCCCC;
-    border-left: 1px solid #CCCCCC;
-    border-radius: 0.2em;
-    margin-left: 14px;
-}
-.horizontal-dots:hover {
-   border: solid .2px #0198E1;
-   
-}
-<div class="horizontal-dots">
+...
 </div>
 <br />
 <br />
