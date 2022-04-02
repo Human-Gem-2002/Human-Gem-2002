@@ -52,7 +52,7 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/0.18/index.html)
 [![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)](https://scipy.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)](https://opencv.org/)
-[![image](https://user-images.githubusercontent.com/88128495/161393188-a4e5c5ab-a032-45d2-95b2-75e4f2dd51bd.png)]
+<div class="..."></div>
 <br />
 <br />
 
