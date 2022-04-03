@@ -40,7 +40,7 @@
 ---
 ### Languages and Tools:
 [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
-[![Python](https://img.shields.io/badge/Python-B02537?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-E65e5e?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
 ![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-red)
 
 ![...](https://img.shields.io/badge/-...-white)
