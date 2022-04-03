@@ -38,7 +38,7 @@
 
   
 ---
-### :toolbox:  Languages and Tools:
+### 🧰  Languages and Tools:
 [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)](https://www.python.org/)
 ![C/C++](https://img.shields.io/badge/C/C++-174480?style=for-the-badge&logo=C/C++&logoColor=red)
