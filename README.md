@@ -1,6 +1,6 @@
 ### <img src="https://github.com/toonies-Nguyen/toonies-Nguyen/blob/main/All%20png/gg.gif" width="80px" height="80px"> </br> <p> Hello, I'm Toonies <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </p>
 
-- 🔭 I'm passionate about Robotics and Artificial Intelligence 🤖
+- 🔭 Welcome to my Github 🤖
 
 <details><summary>🏆 Github Trophies</summary>
   <img src="https://github-profile-trophy.vercel.app/?username=Human-Gem&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1" alt="trophies">  
