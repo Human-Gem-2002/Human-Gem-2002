@@ -15,14 +15,14 @@
 
 <table>
 <tr>
-  <td width="58%">
+  <td width="55%">
     <img src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=Human-Gem&custom_title=GitHub+Stats&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Human-Gem&layout=compact" />
     </td>
     <img src="https://komarev.com/ghpvc/?username=Human-Gem&color=green&style=plastic" />
 
   </td>
-  <td width="42%"><img alt="gif" align="right" src="https://github.com/Human-Gem/Human-Gem/blob/main/All%20png/onepiece.gif.gif"/></td>
+  <td width="45%"><img alt="gif" align="right" src="https://github.com/Human-Gem/Human-Gem/blob/main/All%20png/onepiece.gif.gif"/></td>
 
 </tr>
 <table>
