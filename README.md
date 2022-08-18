@@ -22,7 +22,7 @@
     <img src="https://komarev.com/ghpvc/?username=Human-Gem&color=green&style=plastic" />
 
   </td>
-  <td width="45%"><img alt="gif" align="right" src="https://github.com/Human-Gem/Human-Gem/blob/main/All%20png/onepiece.gif.gif"/></td>
+  <td width="45%"><img alt="gif" align="right" src="https://github.com/Human-Gem/Human-Gem/blob/main/All%20png/onepiece.gif"/></td>
 
 </tr>
 <table>
