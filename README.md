@@ -1,4 +1,4 @@
-### <img src="https://github.com/toonies-Nguyen/toonies-Nguyen/blob/main/All%20png/onepiece.gif" width="80px" height="80px"> </br> <p> Hello, I'm Toonies  </p>
+### <img src="https://github.com/toonies-Nguyen/toonies-Nguyen/blob/main/All%20png/gg.gif" width="80px" height="80px"> </br> <p> Hello, I'm Toonies  </p>
 
 
 - 🔭 Welcome to my Github 
@@ -22,7 +22,7 @@
     <img src="https://komarev.com/ghpvc/?username=Human-Gem&color=green&style=plastic" />
 
   </td>
-  <td width="42%"><img alt="gif" align="right" src="https://github.com/Human-Gem/Human-Gem/blob/main/All%20png/spiderman.gif"/></td>
+  <td width="42%"><img alt="gif" align="right" src="https://github.com/Human-Gem/Human-Gem/blob/main/All%20png/onepiece.gif.gif"/></td>
 
 </tr>
 <table>
