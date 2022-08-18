@@ -1,6 +1,6 @@
 ### <img src="https://github.com/toonies-Nguyen/toonies-Nguyen/blob/main/All%20png/gg.gif" width="80px" height="80px"> </br> <p> Hello, I'm Toonies  </p>
 
-?username=Human-Gem
+
 - 🔭 Welcome to my Github 
 
 <details><summary>🏆 Github Trophies</summary>
