@@ -16,9 +16,9 @@
 <table>
 <tr>
   <td width="55%">
-    <img src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=Human-Gem&custom_title=GitHub+Stats&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Human-Gem&layout=compact" />
-    </td>
+    <img src="https://github-readme-stats.vercel.app/api?username=Human-Gem&show_icons=true&hide=contribs,issues&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Human-Gem&layout=compact&show_icons=true&hide_border=true" />
+  </td>
     <img src="https://komarev.com/ghpvc/?username=Human-Gem&color=green&style=plastic" />
 
   </td>
