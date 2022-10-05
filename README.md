@@ -17,7 +17,7 @@
 <tr>
   <td width="55%">
     <img src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=Human-Gem&custom_title=GitHub+Stats&hide_border=true&show_icons=true&theme=radical" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Human-Gem&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Human-Gem&layout=compact&theme=radical" />
     </td>
     <img src="https://komarev.com/ghpvc/?username=Human-Gem&color=green&style=plastic" />
 
