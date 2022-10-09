@@ -4,11 +4,11 @@
 - 🔭 Welcome to my Github 
 
 <details><summary>🏆 Github Trophies</summary>
-  <img src="https://github-profile-trophy.vercel.app/?username=Toonies-HuGe&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1" alt="trophies">  
+  <img src="https://github-profile-trophy.vercel.app/?username=IAmToonies&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1" alt="trophies">  
 
 
  </details> 
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Toonies-HuGe&theme=dracula&hide_border=true" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IAmToonies&theme=dracula&hide_border=true" />
 
 
 ### :zap: GitHub Stats
@@ -16,13 +16,13 @@
 <table>
 <tr>
   <td width="55%">
-    <img src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=Toonies-HuGe&custom_title=GitHub+Stats&hide_border=true&show_icons=true&theme=radical" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toonies-HuGe&layout=compact&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=IAmToonies&custom_title=GitHub+Stats&hide_border=true&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAmToonies&layout=compact&theme=radical" />
     </td>
     <img src="https://komarev.com/ghpvc/?username=Human-Gem&color=green&style=plastic" />
 
   </td>
-  <td width="45%"><img alt="gif" align="right" src="https://github.com/Toonies-HuGe/Toonies-HuGe/blob/main/All%20png/onepiece.gif"/></td>
+  <td width="45%"><img alt="gif" align="right" src="https://github.com/IAmToonies/IAmToonies/blob/main/All%20png/onepiece.gif"/></td>
 
 </tr>
 <table>
@@ -30,7 +30,7 @@
 ---
 <p align="left">
   <img width="100%" 
-   src="https://activity-graph.herokuapp.com/graph?username=Toonies-HuGe&theme=synthwave-84" />
+   src="https://activity-graph.herokuapp.com/graph?username=IAmToonies&theme=synthwave-84" />
 </p> 
 
 
@@ -41,8 +41,8 @@
 ### 🧰  Languages and Tools:
 [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)](https://www.python.org/)
-[![C/C++](https://img.shields.io/badge/C/C++-174480?style=for-the-badge&logo=C/C++&logoColor=red)](https://www.cprogramming.com/)
-[![...](https://img.shields.io/badge/-...-white)](https://www.google.com/)
+![C/C++](https://img.shields.io/badge/C/C++-174480?style=for-the-badge&logo=C/C++&logoColor=red)
+![...](https://img.shields.io/badge/-...-white)
 <br />
 
 ---
