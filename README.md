@@ -3,21 +3,25 @@
 
 - 🔭 Welcome to my Github 
 
+<details><summary>🏆 Github Trophies</summary>
+  <img src="https://github-profile-trophy.vercel.app/?username=IAmToonies&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1" alt="trophies">  
+
+
+  
   
 <table>
 <tr>
-  <td width="50%">
-    <img src="https://github-profile-trophy.vercel.app/?username=IAmToonies&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1" alt="trophies"> </td>
-   
-  </td>
-  <td width="50%"><img src="https://leetcard.jacoblin.cool/nnnhan1882002?theme=unicorn&font=Telex&ext=activity" /></td>
+  <td width="60%">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IAmToonies&theme=dracula&hide_border=true" />
+  
 
+  </td>
+  <td width="40%">    <img src="https://leetcard.jacoblin.cool/nnnhan1882002?theme=unicorn&font=Telex&ext=activity" /></td>
 
 </tr>
 <table>
-
- </details> 
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IAmToonies&theme=dracula&hide_border=true" />
+  
+ 
 
 
 ### :zap: GitHub Stats
