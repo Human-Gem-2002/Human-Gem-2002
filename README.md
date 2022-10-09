@@ -3,8 +3,8 @@
 
 - 🔭 Welcome to my Github 
 
-🏆 Github Trophies
- <img src="https://github-profile-trophy.vercel.app/?username=IAmToonies&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1" alt="trophies">  
+### :zap:🏆 Github Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=IAmToonies&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1" alt="trophies">  
 
   
   
