@@ -7,12 +7,11 @@
 <table>
 <tr>
   <td width="55%">
-    <img src="https://github-profile-trophy.vercel.app/?username=IAmToonies&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1" alt="trophies"> 
-    </td>
-    <img src="https://leetcard.jacoblin.cool/nnnhan1882002?theme=unicorn&font=Telex&ext=activity" />
-
+    <img src="https://github-profile-trophy.vercel.app/?username=IAmToonies&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1" alt="trophies"> </td>
+   
   </td>
-  <td width="45%"><img alt="gif" align="right" src="./All%20png/onepiece.gif"/></td>
+  <img src="https://leetcard.jacoblin.cool/nnnhan1882002?theme=unicorn&font=Telex&ext=activity" /></td>
+
 
 </tr>
 <table>
