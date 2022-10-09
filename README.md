@@ -24,8 +24,7 @@
     <img src="https://komarev.com/ghpvc/?username=Human-Gem&color=green&style=plastic" />
 
   </td>
-  <td width="45%"><![LeetCode Stats](https://leetcard.jacoblin.cool/nnnhan1882002?theme=unicorn&font=Telex&ext=activity)/></td>
-
+  <td width="45%"><img alt="gif" align="right" src="./All%20png/onepiece.gif"/></td>
 </tr>
 <table>
 
