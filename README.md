@@ -8,7 +8,7 @@
 
 
   <details><summary>🏆 Leet Code</summary>
-  <img src="https://leetcard.jacoblin.cool/nnnhan1882002?theme=unicorn&font=Telex&ext=activity"></details>
+  <img src="https://leetcard.jacoblin.cool/nnnhan1882002?theme=dark&font=Telex&ext=activity"></details>
 
  </details> 
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IAmToonies&theme=dracula&hide_border=true" /></details>
