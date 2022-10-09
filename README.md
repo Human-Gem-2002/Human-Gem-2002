@@ -7,7 +7,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=IAmToonies&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1" alt="trophies"> 
   
   
-![LeetCode Stats](https://leetcard.jacoblin.cool/nnnhan1882002?theme=unicorn&font=Telex&ext=activity)
 
 
  </details> 
@@ -25,7 +24,7 @@
     <img src="https://komarev.com/ghpvc/?username=Human-Gem&color=green&style=plastic" />
 
   </td>
-  <td width="45%"><img alt="gif" align="right" src="./All%20png/onepiece.gif"/></td>
+  <td width="45%"><![LeetCode Stats](https://leetcard.jacoblin.cool/nnnhan1882002?theme=unicorn&font=Telex&ext=activity)/></td>
 
 </tr>
 <table>
