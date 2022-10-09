@@ -19,7 +19,7 @@
     <img src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=Toonies-HuGe&custom_title=GitHub+Stats&hide_border=true&show_icons=true&theme=radical" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toonies-HuGe&layout=compact&theme=radical" />
     </td>
-    <img src="https://komarev.com/ghpvc/?username=Toonies-HuGe&color=green&style=plastic" />
+    <img src="https://komarev.com/ghpvc/?username=Human-Gem&color=green&style=plastic" />
 
   </td>
   <td width="45%"><img alt="gif" align="right" src="https://github.com/Toonies-HuGe/Toonies-HuGe/blob/main/All%20png/onepiece.gif"/></td>
@@ -35,7 +35,7 @@
 
 
 
- 
+
   
 ---
 ### 🧰  Languages and Tools:
