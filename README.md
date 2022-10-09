@@ -1,4 +1,4 @@
-### <img src="./All%20png/gg.gif" width="80px" height="80px"> </br> <p> Hello, I'm Toonies  </p>
+### <img src="./All%20png/gg.gif" width="50px" height="50px">  Hello, I'm Toonies  
 
 
 - 🔭 Welcome to my Github 
