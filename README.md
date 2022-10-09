@@ -4,10 +4,10 @@
 - 🔭 Welcome to my Github 
 
 <details><summary>🏆 Github Trophies</summary>
-  <img src="https://github-profile-trophy.vercel.app/?username=IAmToonies&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1" alt="trophies">  
+  <img src="https://github-profile-trophy.vercel.app/?username=IAmToonies&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1" alt="trophies">  </details>
 
 
-<details><summary>🏆 Leet Code</summary>
+  <details><summary>🏆 Leet Code</summary>
   <img src="https://leetcard.jacoblin.cool/nnnhan1882002?theme=unicorn&font=Telex&ext=activity">
 
  </details> 
