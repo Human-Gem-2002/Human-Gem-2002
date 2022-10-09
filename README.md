@@ -4,25 +4,38 @@
 
 <details><summary>🏆 Github Trophies</summary>
   <img src="https://github-profile-trophy.vercel.app/?username=IAmToonies&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1" alt="trophies"> 
+  
 <!--
-  <details><summary><img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/nhnnguynngc"></summary>
-    <p><img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/nhnnguynngc/competition"
-    <p><img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/nhnnguynngc/dataset"
-    <p><img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/nhnnguynngc/notebook"
-    <p><img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/nhnnguynngc/discussion"
-   
-   </p>
-   </details>
--->
+  <table>
+  <tr>
+    <td width="40%">
+      <img src=https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
+      <img src="https://leetcard.jacoblin.cool/nnnhan1882002?theme=dark&font=Telex&ext=heatmap" />
+      
+   </td>
+  <td width="60%">
+      <p> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/nhnnguynngc"> 
+      <p><img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/nhnnguynngc/competition"
+      <p><img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/nhnnguynngc/dataset"
+      <p><img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/nhnnguynngc/notebook"
+      <p><img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/nhnnguynngc/discussion"
+   </td>
+
+  </p>
+  </tr>
+  </table>
+  -->
+
+
 </details>
+
 <p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IAmToonies&theme=dracula&hide_border=true" width="67%" height="40%"/>
-<!--<img src="https://leetcard.jacoblin.cool/nnnhan1882002?theme=dark&font=Telex&ext=heatmap" width="29.5%" height="100%"/>-->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IAmToonies&theme=dracula&hide_border=true"/>
 </p>
 
 <table>
 <tr>
-  <td width="50%">
+  <td width="48%">
     <img src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=IAmToonies&custom_title=GitHub+Stats&hide_border=true&show_icons=true&theme=radical" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAmToonies&layout=compact&theme=radical" />
     </td>
@@ -30,7 +43,7 @@
 
   </td>
 
-  <td width="50%"><img alt="gif" align="right" src="./All%20png/onepiece.gif"/></td>
+  <td width="52%"><img alt="gif" align="right" src="./All%20png/onepiece.gif"/></td>
 
 </tr>
 <table>
