@@ -4,18 +4,7 @@
 - 🔭 Welcome to my Github 
 
 <details><summary>🏆 Github Trophies</summary>
-  <table>
-  <tr>
-    <td width="55%">
-      <img src="https://github-profile-trophy.vercel.app/?username=IAmToonies&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1" alt="trophies"></td>
-      </td>
-      <img src="https://komarev.com/ghpvc/?username=Human-Gem&color=green&style=plastic" />
-
-    </td>
-    <td width="45%"><img alt="gif" align="right" src="./All%20png/onepiece.gif"/></td>
-      </td>
-  </tr>
-  <table>
+  <img src="https://github-profile-trophy.vercel.app/?username=IAmToonies&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1" alt="trophies">
   
   
   
