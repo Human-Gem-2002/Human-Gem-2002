@@ -8,15 +8,19 @@
 
 
 <details><summary> :zap: GitHub Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAmToonies&layout=compact&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=IAmToonies&custom_title=GitHub+Stats&hide_border=true&show_icons=true&theme=radical" />  </details>
+  <img src="https://leetcard.jacoblin.cool/nnnhan1882002?theme=dark&font=Telex&ext=activity"></td>  </details>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IAmToonies&theme=dracula&hide_border=true" />
 
 <table>
 <tr>
   <td width="50%">
-    <img src="https://leetcard.jacoblin.cool/nnnhan1882002?theme=dark&font=Telex&ext=activity"></td>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAmToonies&layout=compact&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=IAmToonies&custom_title=GitHub+Stats&hide_border=true&show_icons=true&theme=radical" />
+    </td>
+    <img src="https://komarev.com/ghpvc/?username=Human-Gem&color=green&style=plastic" />
+
+  </td>
 
   <td width="50%"><img alt="gif" align="right" src="./All%20png/onepiece.gif"/></td>
 
