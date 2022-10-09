@@ -6,6 +6,26 @@
 <details><summary>🏆 Github Trophies</summary>
   <table>
   <tr>
+    <td width="55%">
+      <img src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=IAmToonies&custom_title=GitHub+Stats&hide_border=true&show_icons=true&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAmToonies&layout=compact&theme=radical" />
+      </td>
+      <img src="https://komarev.com/ghpvc/?username=Human-Gem&color=green&style=plastic" />
+
+    </td>
+    <td width="45%"><img alt="gif" align="right" src="./All%20png/onepiece.gif"/></td>
+      </td>
+  </tr>
+  <table>
+  
+  
+  
+  
+  
+  
+  
+  <table>
+  <tr>
     <td width="50%">
       <img src="https://github-profile-trophy.vercel.app/?username=IAmToonies&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1" alt="trophies"></td>
     
