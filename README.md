@@ -7,11 +7,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=IAmToonies&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1" alt="trophies">  </details>
 
 
-  <details><summary>🏆 Leet Code</summary>
-  <img src="https://leetcard.jacoblin.cool/nnnhan1882002?theme=dark&font=Telex&ext=activity"></details>
-
- </details> 
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IAmToonies&theme=dracula&hide_border=true" /></details>
+<details>### :zap: GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAmToonies&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=IAmToonies&custom_title=GitHub+Stats&hide_border=true&show_icons=true&theme=radical" />  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IAmToonies&theme=dracula&hide_border=true" /></details>
 
 
 ### :zap: GitHub Stats
@@ -19,12 +18,8 @@
 <table>
 <tr>
   <td width="55%">
-    <img src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=IAmToonies&custom_title=GitHub+Stats&hide_border=true&show_icons=true&theme=radical" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAmToonies&layout=compact&theme=radical" />
-    </td>
-    <img src="https://komarev.com/ghpvc/?username=Human-Gem&color=green&style=plastic" />
+    <img src="https://leetcard.jacoblin.cool/nnnhan1882002?theme=dark&font=Telex&ext=activity"></td>
 
-  </td>
   <td width="45%"><img alt="gif" align="right" src="./All%20png/onepiece.gif"/></td>
 
 </tr>
