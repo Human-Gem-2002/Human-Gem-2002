@@ -56,4 +56,3 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCK4a4PF19pPu7Gk0YXGew9Q)
 
 
-![8007876](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{8007876})
