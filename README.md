@@ -9,7 +9,7 @@
   <table>
   <tr>
     <td width="40%">
-      <img src=https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
+      <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
       <img src="https://leetcard.jacoblin.cool/nnnhan1882002?theme=dark&font=Telex&ext=heatmap" />
       
    </td>
