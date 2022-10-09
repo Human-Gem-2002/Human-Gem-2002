@@ -6,11 +6,11 @@
   
 <table>
 <tr>
-  <td width="40%">
+  <td width="50%">
     <img src="https://github-profile-trophy.vercel.app/?username=IAmToonies&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1" alt="trophies"> </td>
    
   </td>
-  <td width="60%"><img src="https://leetcard.jacoblin.cool/nnnhan1882002?theme=unicorn&font=Telex&ext=activity" /></td>
+  <td width="50%"><img src="https://leetcard.jacoblin.cool/nnnhan1882002?theme=unicorn&font=Telex&ext=activity" /></td>
 
 
 </tr>
