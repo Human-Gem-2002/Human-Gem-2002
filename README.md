@@ -7,8 +7,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=IAmToonies&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1" alt="trophies">  </details>
 
 
-<details><summary>⭐️ LeetCode </summary>
-  <img src="https://leetcard.jacoblin.cool/nnnhan1882002?theme=dark&font=Telex&ext=activity"></td>  </details>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IAmToonies&theme=dracula&hide_border=true" />
 
