@@ -7,8 +7,7 @@
   <table>
   <tr>
     <td width="55%">
-      <img src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=IAmToonies&custom_title=GitHub+Stats&hide_border=true&show_icons=true&theme=radical" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAmToonies&layout=compact&theme=radical" />
+      <img src="https://github-profile-trophy.vercel.app/?username=IAmToonies&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1" alt="trophies"></td>
       </td>
       <img src="https://komarev.com/ghpvc/?username=Human-Gem&color=green&style=plastic" />
 
@@ -24,16 +23,7 @@
   
   
   
-  <table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-profile-trophy.vercel.app/?username=IAmToonies&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1" alt="trophies"></td>
-    
-    <td width="50%">
-      <img src="https://leetcard.jacoblin.cool/nnnhan1882002?theme=unicorn&font=Telex&ext=activity"></td>
-  </td>
-  </tr>
-  <table>
+
 
 
 </details> 
