@@ -4,11 +4,10 @@
 
 <details><summary>🏆 Github Trophies</summary>
   <img src="https://github-profile-trophy.vercel.app/?username=IAmToonies&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1" alt="trophies">  
-  <!--<img src="https://leetcard.jacoblin.cool/nnnhan1882002?theme=dark&font=Telex&ext=activity">-->
 </details>
 <p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IAmToonies&theme=dracula&hide_border=true" width="60%" height="40%"/>
-<img src="https://leetcard.jacoblin.cool/nnnhan1882002?theme=dark&font=Telex&ext=heatmap" width="30%" height="40%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IAmToonies&theme=dracula&hide_border=true" width="70%" height="40%"/>
+<img src="https://leetcard.jacoblin.cool/nnnhan1882002?theme=dark&font=Telex&ext=heatmap" width="29.5%" height="90%"/>
 </p>
 
 <table>
