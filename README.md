@@ -5,12 +5,14 @@
 <details><summary>🏆 Github Trophies</summary>
   <img src="https://github-profile-trophy.vercel.app/?username=IAmToonies&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1" alt="trophies"> 
 <!--
-  <p><img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/nhnnguynngc"></p>
-  <p><img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/nhnnguynngc/competition"
-  <p><img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/nhnnguynngc/dataset"
-  <p><img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/nhnnguynngc/notebook"
-  <p><img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/nhnnguynngc/discussion"
+  <details><summary><img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/nhnnguynngc"></summary>
+    <p><img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/nhnnguynngc/competition"
+    <p><img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/nhnnguynngc/dataset"
+    <p><img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/nhnnguynngc/notebook"
+    <p><img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/nhnnguynngc/discussion"
+   
    </p>
+   </details>
 -->
 </details>
 <p>
