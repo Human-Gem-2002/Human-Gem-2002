@@ -3,10 +3,10 @@
 
 - 🔭 Welcome to my Github 
 
-<details><summary>🏆 Github Trophies</summary>
+<details><summary>🏆 Github Trophies
   <img src="https://github-profile-trophy.vercel.app/?username=IAmToonies&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1" alt="trophies">  
 
-
+</summary>
   
   
 <table>
