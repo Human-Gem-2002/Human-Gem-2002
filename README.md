@@ -15,10 +15,10 @@
 
 <table>
 <tr>
-  <td width="55%">
+  <td width="50%">
     <img src="https://leetcard.jacoblin.cool/nnnhan1882002?theme=dark&font=Telex&ext=activity"></td>
 
-  <td width="45%"><img alt="gif" align="right" src="./All%20png/onepiece.gif"/></td>
+  <td width="50%"><img alt="gif" align="right" src="./All%20png/onepiece.gif"/></td>
 
 </tr>
 <table>
