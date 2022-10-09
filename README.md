@@ -7,7 +7,7 @@
 </details>
 <p>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IAmToonies&theme=dracula&hide_border=true" width="67%" height="40%"/>
-<img src="https://leetcard.jacoblin.cool/nnnhan1882002?theme=dark&font=Telex&ext=heatmap" width="29.5%" height="100%"/>
+<!--<img src="https://leetcard.jacoblin.cool/nnnhan1882002?theme=dark&font=Telex&ext=heatmap" width="29.5%" height="100%"/>-->
 </p>
 
 <table>
