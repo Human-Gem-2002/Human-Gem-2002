@@ -1,5 +1,5 @@
 
-### <p><img src="./All%20png/gg.gif" width="60px" height="60px">  Hello, I'm Toonies  </p>
+### <p> Hello, I'm Toonies <img src="./All%20png/gg.gif" width="60px" height="60px">  </p>
 
 
 - 🔭 Welcome to my Github 
