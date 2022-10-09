@@ -4,11 +4,11 @@
 - 🔭 Welcome to my Github 
 
 <details><summary>🏆 Github Trophies</summary>
-  <img src="https://github-profile-trophy.vercel.app/?username=Human-Gem&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1" alt="trophies">  
+  <img src="https://github-profile-trophy.vercel.app/?username=Toonies-HuGe&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1" alt="trophies">  
 
 
  </details> 
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Human-Gem&theme=dracula&hide_border=true" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Toonies-HuGe&theme=dracula&hide_border=true" />
 
 
 ### :zap: GitHub Stats
@@ -16,13 +16,13 @@
 <table>
 <tr>
   <td width="55%">
-    <img src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=Human-Gem&custom_title=GitHub+Stats&hide_border=true&show_icons=true&theme=radical" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Human-Gem&layout=compact&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=Toonies-HuGe&custom_title=GitHub+Stats&hide_border=true&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toonies-HuGe&layout=compact&theme=radical" />
     </td>
-    <img src="https://komarev.com/ghpvc/?username=Human-Gem&color=green&style=plastic" />
+    <img src="https://komarev.com/ghpvc/?username=Toonies-HuGe&color=green&style=plastic" />
 
   </td>
-  <td width="45%"><img alt="gif" align="right" src="https://github.com/Human-Gem/Human-Gem/blob/main/All%20png/onepiece.gif"/></td>
+  <td width="45%"><img alt="gif" align="right" src="https://github.com/Toonies-HuGe/Toonies-HuGe/blob/main/All%20png/onepiece.gif"/></td>
 
 </tr>
 <table>
@@ -30,7 +30,7 @@
 ---
 <p align="left">
   <img width="100%" 
-   src="https://activity-graph.herokuapp.com/graph?username=Human-Gem&theme=synthwave-84" />
+   src="https://activity-graph.herokuapp.com/graph?username=Toonies-HuGe&theme=synthwave-84" />
 </p> 
 
 
@@ -56,8 +56,3 @@
 
 ### 📺 My channel:
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCK4a4PF19pPu7Gk0YXGew9Q)
-
-  
-
-  
-
