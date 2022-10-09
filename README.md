@@ -8,15 +8,21 @@
   
   
   
-  
-  
-  
+<table>
+<tr>
+  <td width="55%">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IAmToonies&theme=dracula&hide_border=true" />
+    </td>
+    <img src="https://komarev.com/ghpvc/?username=Human-Gem&color=green&style=plastic" />
+
+  </td>
+  <td width="45%"><img alt="gif" align="right" src="./All%20png/onepiece.gif"/></td>
+    </td>
+</tr>
+<table>  
   
 
 
-
-</details> 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IAmToonies&theme=dracula&hide_border=true" />
  
  
  
