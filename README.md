@@ -8,12 +8,12 @@
 
   <table>
   <tr>
-    <td width="40%">
+    <td width="55%">
       <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
       <img src="https://leetcard.jacoblin.cool/nnnhan1882002?theme=dark&font=Telex&ext=heatmap" />
       
    </td>
-  <td width="60%">
+  <td width="45%">
       <p> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/nhnnguynngc"> 
       <p><img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/nhnnguynngc/competition"
       <p><img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/nhnnguynngc/dataset"
@@ -30,7 +30,7 @@
 </details>
 
 <p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IAmToonies&theme=dracula&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IAmToonies&theme=dracula&hide_border=true" width="100%"/>
 </p>
 
 <table>
