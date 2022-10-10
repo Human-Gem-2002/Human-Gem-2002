@@ -4,13 +4,13 @@
 
 <details><summary>🏆 Github Trophies</summary>
   <img src="https://github-profile-trophy.vercel.app/?username=IAmToonies&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1" alt="trophies"> 
-  
-<!--
+
+
   <table>
   <tr>
     <td width="55%">
       <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
-      <img src="https://leetcard.jacoblin.cool/nnnhan1882002?theme=dark&font=Telex&ext=heatmap" />
+      <img src="https://leetcard.jacoblin.cool/nnnhan1882002?theme=dark&font=Telex&ext=activity" />
       
    </td>
   <td width="45%">
@@ -25,7 +25,6 @@
   </tr>
   </table>
 
--->
 
 </details>
 
