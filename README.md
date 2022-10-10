@@ -8,12 +8,12 @@
 
   <table>
   <tr>
-    <td width="65%">
+    <td width="62%">
       <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
       <img src="https://leetcard.jacoblin.cool/nnnhan1882002?theme=dark&font=Telex&ext=activity" />
       
    </td>
-  <td width="35%">
+  <td width="38%">
       <p> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/nhnnguynngc"> 
       <p><img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/nhnnguynngc/competition"
       <p><img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/nhnnguynngc/dataset"
