@@ -5,7 +5,7 @@
 <details><summary>🏆 Github Trophies</summary>
   <img src="https://github-profile-trophy.vercel.app/?username=IAmToonies&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1" alt="trophies"> 
   
-
+<!--
   <table>
   <tr>
     <td width="55%">
@@ -20,12 +20,12 @@
       <p><img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/nhnnguynngc/notebook"
       <p><img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/nhnnguynngc/discussion"
    </td>
-
+   
   </p>
   </tr>
   </table>
 
-
+-->
 
 </details>
 
