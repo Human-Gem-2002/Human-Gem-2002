@@ -5,26 +5,6 @@
 <details><summary>🏆 Github Trophies</summary>
   <img src="https://github-profile-trophy.vercel.app/?username=IAmToonies&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1" alt="trophies"> 
 
-<!--
-  <table>
-  <tr>
-    <td width="62%">
-      <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
-      <img src="https://leetcard.jacoblin.cool/nnnhan1882002?theme=dark&font=Telex&ext=activity" />
-      
-   </td>
-  <td width="38%">
-      <p> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/nhnnguynngc"> 
-      <p><img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/nhnnguynngc/competition"
-      <p><img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/nhnnguynngc/dataset"
-      <p><img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/nhnnguynngc/notebook"
-      <p><img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/nhnnguynngc/discussion"
-   </td>
-   
-  </p>
-  </tr>
-  </table>
--->
 
 </details>
 
