@@ -27,11 +27,6 @@
 </tr>
 <table>
 
----
-<p align="left">
-  <img width="100%" 
-   src="https://activity-graph.herokuapp.com/graph?username=IAmToonies&theme=synthwave-84" />
-</p> 
 
 
 
