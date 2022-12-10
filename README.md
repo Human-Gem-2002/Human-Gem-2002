@@ -2,12 +2,6 @@
 
 - 🔭 Welcome to my Github 
 
-
-
-<p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IAmToonies&theme=dracula&hide_border=true"/>
-</p>
-
 <table>
 <tr>
   <td width="48%">
@@ -40,7 +34,8 @@
 ### 📫 Contact me via:
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nhan.nguyenngoc.12720100/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nnnhan1882002@gmail.com)
+[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=%23003140&logoColor=white)](https://www.linkedin.com/in/ngọc-nhân-nguyễn-461298252//)
+
   
   
 ---
