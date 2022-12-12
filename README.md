@@ -2,6 +2,11 @@
 
 - 🔭 Welcome to my Github 
 
+
+<p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IAmToonies&theme=dracula&hide_border=true"/>
+</p>
+
 <table>
 <tr>
   <td width="48%">
@@ -17,6 +22,11 @@
 </tr>
 <table>
 
+---
+<p align="left">
+  <img width="100%" 
+   src="https://github-readme-activity-graph.cyclic.app/graph?username=iamtoonies&theme=synthwave-84" />
+</p> 
 
 
 
