@@ -1,7 +1,7 @@
 <br><img src="./All%20png/gg.gif" width="80px" height="80px"> </br> 
 ### Hi, I'm Nhan (Can call me Toonies) 👋
 - 🎓 I am studying Mechatronics Engineering at HCMUTE - University of Technology and Education. 
-- ⚡ I have a strong passion for Robotics and Artificial Intelligence (Computer vision & NLP)
+- ⚡ I have a strong passion for Robotics and Artificial Intelligence (Computer vision & NLP).
 - 🔭 I am still developing my expertise in these fields 😅, I am eager to expand my knowledge and learn from others. If you have any relevant knowledge or insights to share, I would be honored to learn from your experience and wisdom.
 
 
