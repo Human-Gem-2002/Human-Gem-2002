@@ -1,4 +1,4 @@
-<br><img src="./All%20png/gg.gif" width="70px" height="70px"> </br> 
+<br><img src="./All%20png/gg.gif" width="80px" height="80px"> </br> 
 ### Hi, I'm Nhan (Can call me Toonies) 👋
 - 🎓 I am studying Mechatronics Engineering at HCMUTE - University of Technology and Education. 
 - ⚡ I have a strong passion for robotics and artificial intelligence (Computer vision & NLP)
