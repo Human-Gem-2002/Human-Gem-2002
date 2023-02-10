@@ -1,5 +1,5 @@
-### <br><img src="./All%20png/gg.gif" width="80px" height="80px"> </br> <p> Hi, my name is Nguyen Ngoc Nhan, but everyone can call me Toonies. I am studying Mechatronics Engineering at HCMUTE - University of Technology and Education. I have a strong passion for robotics and artificial intelligence, particularly in the areas of computer vision and natural language processing. While I am still developing my expertise in these fields, I am eager to expand my knowledge and learn from others. If you have any relevant knowledge or insights to share, I would be honored to learn from your experience and wisdom.
-  </p>
+### <br><img src="./All%20png/gg.gif" width="80px" height="80px"> </br>
+- Hi, my name is Nguyen Ngoc Nhan, but everyone can call me Toonies. I am studying Mechatronics Engineering at HCMUTE - University of Technology and Education. I have a strong passion for robotics and artificial intelligence, particularly in the areas of computer vision and natural language processing. While I am still developing my expertise in these fields, I am eager to expand my knowledge and learn from others. If you have any relevant knowledge or insights to share, I would be honored to learn from your experience and wisdom
 
 
 <p>
