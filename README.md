@@ -1,5 +1,8 @@
-### <br><img src="./All%20png/gg.gif" width="80px" height="80px"> </br>
-- Hi, my name is Nguyen Ngoc Nhan, but everyone can call me Toonies. I am studying Mechatronics Engineering at HCMUTE - University of Technology and Education. I have a strong passion for robotics and artificial intelligence, particularly in the areas of computer vision and natural language processing. While I am still developing my expertise in these fields, I am eager to expand my knowledge and learn from others. If you have any relevant knowledge or insights to share, I would be honored to learn from your experience and wisdom
+# <br><img src="./All%20png/gg.gif" width="80px" height="80px"> </br> 
+### Hi, I'm Nhan (Can call me Toonies) 👋
+- 🎓 I am studying Mechatronics Engineering at HCMUTE - University of Technology and Education. 
+- ⚡ I have a strong passion for robotics and artificial intelligence (Computer vision & NLP)
+- 🔭 I am still developing my expertise in these fields 😅, I am eager to expand my knowledge and learn from others. If you have any relevant knowledge or insights to share, I would be honored to learn from your experience and wisdom.
 
 
 <p>
@@ -43,13 +46,13 @@
 ### 📫 Contact me via:
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nhan.nguyenngoc.12720100/)
-[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=%23003140&logoColor=white)](https://www.linkedin.com/in/ngọc-nhân-nguyễn-461298252//)
+[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=%23003140&logoColor=white)](https://www.linkedin.com/in/nnnhan/)
 
   
   
 ---
 
-### 📺 My channel:
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCK4a4PF19pPu7Gk0YXGew9Q)
+### 🎮 My gamming channel 😅:
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TooniesGaming)
 
 
