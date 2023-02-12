@@ -19,7 +19,7 @@
 
   </td>
 
-  <td width="52%"><img alt="gif" align="right" src="./All%20png/onepiece.gif"/></td>
+  <td width="52%"><img alt="gif" align="right" src="./All%20png/coder.gif"/></td>
 
 </tr>
 <table>
