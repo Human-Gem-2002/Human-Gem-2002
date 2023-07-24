@@ -24,11 +24,6 @@
 </tr>
 <table>
 
----
-<p align="left">
-  <img width="100%" 
-   src="https://github-readme-activity-graph.cyclic.app/graph?username=tooniesnguyen&theme=synthwave-84" />
-</p> 
 
 
 
@@ -53,6 +48,6 @@
 ---
 
 ### 🎮 My gamming channel:
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TooniesGaming)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ChillStudies-ql5mw)
 
 
