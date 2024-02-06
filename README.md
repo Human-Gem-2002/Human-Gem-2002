@@ -4,6 +4,10 @@
 - ⚡ I have a strong passion for Robotics and Artificial Intelligence (Computer Vision & NLP).
 - 🔭 I am still developing my expertise in these fields 😅, I am eager to expand my knowledge and learn from others. If you have any relevant knowledge or insights to share, I would be honored to learn from your experience and wisdom.
 
+<details><summary>🏆 Github Trophies</summary>
+  <img src="https://github-profile-trophy.vercel.app/?username=tooniesnguyen&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1" alt="trophies"> 
+</details>
+
 
 <p>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tooniesnguyen&theme=dracula&hide_border=true"/>
